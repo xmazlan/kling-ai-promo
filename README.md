@@ -2,9 +2,7 @@
 
 Repositori ini berisi kode sumber untuk halaman arahan (landing page) sederhana yang dibuat untuk membagikan kode undangan (referral) alat AI generator video, **Kling AI**. Halaman ini dirancang agar bersih, menarik, dan fungsional untuk di-host secara gratis menggunakan GitHub Pages.
 
-**Tautan Langsung ke Halaman:** `https://<NAMA-PENGGUNA-ANDA>.github.io/<NAMA-REPOSITORI-ANDA>/`
-
-*(Jangan lupa ganti `<NAMA-PENGGUNA-ANDA>` dan `<NAMA-REPOSITORI-ANDA>` dengan detail Anda)*
+**Tautan Langsung ke Halaman:** [https://xmazlan.github.io/kling-ai-promo/](https://xmazlan.github.io/kling-ai-promo/)
 
 ## 🚀 Fitur Utama
 
@@ -17,15 +15,14 @@ Repositori ini berisi kode sumber untuk halaman arahan (landing page) sederhana 
 ## 📸 Pratinjau Halaman
 
 ![Pratinjau Halaman Arahan](https://i.imgur.com/uU2P9nL.png)
-*(Anda bisa mengganti URL gambar ini dengan screenshot halaman Anda sendiri jika diinginkan)*
 
 ## ⚙️ Cara Menggunakan
 
-Repositori ini sangat mudah digunakan. Kode utama berada di dalam file `index.html`.
+Repositori ini sudah siap digunakan. Kode utama berada di dalam file `index.html`.
 
 1.  **Clone atau Unduh Repositori**:
     ```bash
-    git clone [https://github.com/](https://github.com/)<NAMA-PENGGUNA-ANDA>/<NAMA-REPOSITORI-ANDA>.git
+    git clone [https://github.com/xmazlan/kling-ai-promo.git](https://github.com/xmazlan/kling-ai-promo.git)
     ```
 2.  **Tidak Perlu Modifikasi**: File `index.html` sudah dikonfigurasi dengan kode referral **`7BUF4KYFHKLH`** dan tautan yang sesuai.
 3.  **Unggah ke GitHub Pages**:
